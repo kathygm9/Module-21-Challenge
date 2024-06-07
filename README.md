@@ -35,11 +35,7 @@ Were you able to achieve the target model performance?
 73% accuracy close to 75%.*
 
 What steps did you take in your attempts to increase model performance?
-
 *No*
-
-(The second attempt with the “NAME” column in the dataset, achieved an accuracy of almost
-78%. This is 3% over the target 75% with 3,298 parameters)
 
 **Summary**
 
