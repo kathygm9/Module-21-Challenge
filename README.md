@@ -34,8 +34,6 @@ Were you able to achieve the target model performance?
 *6,461  parameters were created by a three-layer training model. The first attempt was just over
 73% accuracy close to 75%.*
 
-What steps did you take in your attempts to increase model performance?
-*No*
 
 **Summary**
 
