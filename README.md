@@ -11,22 +11,33 @@ capable of predicting whether applicants will be successful if funded by Alphabe
 **Data Preprocessing**
 
 What variable(s) are the target(s) for your model?
+
 *The target variable for the model was labeled “IS_SUCCESSFUL” and has the value of 1 for yes and 0 for no.*
+
 What variable(s) are the features for your model?
+
 *The remaining columns were to be considered features for the model*
+
 What variable(s) should be removed from the input data because they are neither targets nor features?
+
 *Several data points as a cutoff to bin “rare” variables together with the new
 value of “Other” for each unique value.*
 
 **Compiling, Training, and Evaluating the Model**
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
 *There were three layers total for each model after applying Neural Networks.*
+
 Were you able to achieve the target model performance?
+
 *6,461  parameters were created by a three-layer training model. The first attempt was just over
 73% accuracy close to 75%.*
+
 What steps did you take in your attempts to increase model performance?
+
 *No*
+
 (The second attempt with the “NAME” column in the dataset, achieved an accuracy of almost
 78%. This is 3% over the target 75% with 3,298 parameters)
 
